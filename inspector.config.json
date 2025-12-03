@@ -1,0 +1,8 @@
+{
+  "servers": [
+    {
+      "name": "venue-assistant",
+      "transport": { "type": "http", "url": "http://localhost:5001/mcp" }
+    }
+  ]
+}

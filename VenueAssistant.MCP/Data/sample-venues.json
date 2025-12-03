@@ -1,0 +1,28 @@
+[
+  {
+    "id": "venue-1",
+    "name": "Grand Pavilion",
+    "address": "123 Main St",
+    "city": "Metropolis",
+    "state": "NY",
+    "phone": "555-0100",
+    "capacity": 500,
+    "preferred_vendor_ids": [],
+    "subscription_tier": "starter",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "venue-2",
+    "name": "Harbor View Center",
+    "address": "500 Harbor Way",
+    "city": "Bay City",
+    "state": "CA",
+    "phone": "555-0200",
+    "capacity": 350,
+    "preferred_vendor_ids": [],
+    "subscription_tier": "starter",
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-01-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "event-1": {
+    "id": "event-1",
+    "venue_id": "venue-1",
+    "event_name": "Spring Gala",
+    "event_type": "gala",
+    "event_date": "2025-05-15T00:00:00Z",
+    "event_time": "18:00:00",
+    "guest_count": 250,
+    "budget_total": 15000,
+    "description": "An elegant spring gala for local community leaders.",
+    "special_requirements": {},
+    "status": "planning",
+    "created_by": "claude",
+    "timeline": [],
+    "budget_breakdown": {},
+    "assigned_vendor_ids": [],
+    "created_at": "2024-01-01T00:00:00Z",
+    "updated_at": "2024-01-01T00:00:00Z",
+    "completed_at": null
+  }
+}
