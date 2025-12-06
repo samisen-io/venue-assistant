@@ -1,0 +1,46 @@
+{
+    "step_1_extract": {
+        "event_description": "We are hosting a wedding for 150 guests at the Grand Pavilion on June 15th, 2024. We need a high-end catering service with a budget of around $50 per person, and we also need a live band and floral arrangements. The theme is 'Summer Garden'. We want to make sure everything runs on time."
+    },
+    "step_2_match": {
+        "venue_id": "venue-1",
+        "event_date": "2024-06-15",
+        "category": "catering",
+        "budget_per_unit": 50
+    },
+    "step_3_risk": {
+        "vendor_id": "vendor-1",
+        "event_date": "2024-06-15"
+    },
+    "step_4_timeline": {
+        "event_type": "wedding",
+        "start_time": "14:00",
+        "end_time": "22:00",
+        "services": [
+            "catering",
+            "music",
+            "photography"
+        ]
+    },
+    "step_5_budget": {
+        "event_id": "event-123",
+        "expenses": [
+            {
+                "category": "catering",
+                "amount": 6000
+            },
+            {
+                "category": "venue",
+                "amount": 2000
+            }
+        ],
+        "total_budget": 10000
+    },
+    "step_6_report": {
+        "event_id": "event-123",
+        "actual_attendance": 145,
+        "issues_logged": [
+            "Late arrival of florist"
+        ]
+    }
+}
